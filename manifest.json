@@ -1,0 +1,17 @@
+{
+  "name": "manifest.app",
+  "short_name": "manifest",
+  "description": "Manifest is a grid-based pinboard for note taking.",
+  "author": "Mikdat Doğru",
+  "homepage_url": "https://www.manifest.app/",
+  "version": "0.1.0",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "manifest.html"
+  },
+  "manifest_version": 2,
+  "icons": {
+    "16": "favicon.png",
+    "48": "favicon.png",
+    "128": "favicon.png" }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "manifest-app-ext",
+  "version": "0.1.0",
+  "description": "manifest.app chrome extention",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikdatdogru/manifest.app-chrome-ext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikdatdogru/manifest.app-chrome-ext/issues"
+  },
+  "homepage": "https://github.com/mikdatdogru/manifest.app-chrome-ext#readme"
+}
